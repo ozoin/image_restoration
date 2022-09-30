@@ -3,6 +3,7 @@
 <br/>
 
 <h3>Quick guide:</h3>
+
 dataset.py --> creates dataset from given data. Returnes masked and target image.
 
 config.py --> config file. Contains different parameters for trainings
@@ -14,5 +15,7 @@ architecture.py --> includes different autoencoder/decoder CNN architectures.
 train.ipynb --> notebook, that contains main training process and actual image restoration
 
 MaskImage.py --> creates masked images
+
+<br/>
 
 P.S. Project will be updated soon, with more readable and neat code.
